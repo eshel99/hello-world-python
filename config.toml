@@ -1,7 +1,0 @@
-enable_custom_labels=true
-
-[custom_labels."SQL query"]
-description = "Adds or modifies SQL query"
-
-[custom_labels."Secret key"]
-description = "Adds a secret key"
