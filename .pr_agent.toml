@@ -1,7 +1,7 @@
 enable_custom_labels = true
 
-[custom_labels.sql_query]
- """\Adds or modifies SQL query"""
+[custom_labels.sql_query] # /query #
 
-[custom_labels.secret_key]
-"""\Adds a secret key"""
+
+[custom_labels.secret_key] # /key #
+
