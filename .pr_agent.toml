@@ -1,9 +1,4 @@
 
-enable_custom_labels=true 
+[custom_labels.sql_query] # /query #
 
-[custom_labels]
-custom_labels="""\
-- sql_query
-- secret_key
-...
-"""
+[custom_labels.secret_key] # /key #
