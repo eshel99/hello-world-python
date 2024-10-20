@@ -1,4 +1,8 @@
+[config]
+enable_custom_labels=true
 
-[custom_labels.sql_query] # /query #
+[custom_labels."SQL query"]
+description = "Adds or modiify SQL query"
 
-[custom_labels.secret_key] # /key #
+[custom_labels."Secret key"]
+description = "Adds a secret key"
